@@ -8,3 +8,4 @@ else
     echo "$num1 is not bigger than $num2"
 fi
 #end
+#hii this for prctice
